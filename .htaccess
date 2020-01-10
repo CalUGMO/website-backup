@@ -1,0 +1,7 @@
+Redirect 301 /index /index.html
+Redirect 301 /live https://www.youtube.com/channel/UCKgR8SJmRb23k9WPwN0B-zg/live
+Redirect 301 /fundraising https://give.berkeley.edu/egiving/index.cfm?fund=FU0897000&org=Cal+Men%27s+Ultimate+Fund&amt=&fundlist=FU0897000
+Redirect 301 /fundraise https://give.berkeley.edu/egiving/index.cfm?fund=FU0897000&org=Cal+Men%27s+Ultimate+Fund&amt=&fundlist=FU0897000
+Redirect 301 /highlights https://www.youtube.com/watch?v=Tipi0rfGS0k&list=PLNH6OXNvEN_VqTNcoGQlVZoGqjmrpjwdo
+Redirect 301 /newhighlights https://www.youtube.com/watch?v=Tipi0rfGS0k&list=PLNH6OXNvEN_X_WQTLz1UDTO64NWUPWU1h
+
